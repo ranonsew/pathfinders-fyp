@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ZixuanChen.vitest-explorer",
+    "formulahendry.auto-rename-tag",
+		"Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "ms-playwright.playwright",
+    "oderwat.indent-rainbow",
+		"EditorConfig.EditorConfig",
+		"antfu.iconify",
+  ]
+}

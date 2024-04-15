@@ -1,0 +1,5 @@
+.env
+venv
+srv/__pycache__
+__pycache__
+gunicorn-docker/venv
